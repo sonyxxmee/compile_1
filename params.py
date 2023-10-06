@@ -1,0 +1,27 @@
+    # expression = "(3-5/5*((-3))*(-2))-1" #-4
+    # expression = "(3-5)+2" #0
+    # expression = "5*(-2)" #-10
+    # expression = "(3-(-5))+2" #10
+
+    # expression = "log(-2, 4)"
+    # expression = "(5 + 4.7)*2/55*(15-(5+4))*log(log(3, 9), 2)*(-2)*8" #-33.8
+    # expression = "(15-(5+4))" #6
+    # expression = "(-2 + 3)*(-2)+2" #0
+    # expression = "(-2 + (-3))*(-2)+(-2)" #8
+    # expression = "((-2.2.5))"
+    # expression = "((-2.25))"
+    # expression = "-2.3+(-5)*log(2, 4)*(-4)" #37.7
+    # expression = " 2.3+(-5)*log(2, 4)*(-4)" #42.3
+    # expression = 'log(1+1, 2)' #1
+    # expression = " -2.3-(-3.3)" #1
+    # expression = "5-2" #3
+    # expression = "-5-2" #-7
+    # expression = "5-(-2)" #7
+    # expression = "(-5-(-2))*2" #-6
+    # expression = "2*(-5-(-2))*2" #-12
+    # expression = "-2*(-5-(-2))*2" #12
+    # expression = "-2*(-5-(-3))*4" # 16
+    # expression = "1-3+3*2" #4
+    # expression = "-1-3+3*2" #2
+    # expression = "ыворисыоврисоыви"
+    # expression = "-5+(-4)" #-9
